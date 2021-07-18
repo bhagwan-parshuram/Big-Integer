@@ -19,3 +19,4 @@ BigInt {<br/>
 4. Multiplication : a * b
 5. Divisition: a / b
 6. Modulo : a % b
+7. Greatest Common Divisor: gcd(a,b)
