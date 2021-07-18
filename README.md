@@ -14,7 +14,7 @@ BigInt {<br/>
      b.  BigInt a=string  <br />
      c.  BigInt a(int/long long) <br />
      d.  BigInt a=(int/long) <br />
-2. Addition: a + b
+     2. Addition: a + b
 3. Subtraction : a - b
 4. Multiplication : a * b
 5. Divisition: a / b
