@@ -1,7 +1,7 @@
 # Big-Integer
 ## A Big Integer Library for C++
 
-##Operations
+### Operations
 
 BigInt{
   int neg   (0--> Positive 1-->negative)
