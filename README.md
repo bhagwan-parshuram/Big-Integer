@@ -3,16 +3,15 @@
 
 ### Operations
 
-BigInt{
-  int neg   (0--> Positive 1-->negative)
-  string s  (The number as string)
- }
- 
- 
-1. Declaring Big Integer
-   a.BigInt a(string) 
-   b.BigInt a=string 
-   c.BigInt a(int/long long)
+BigInt{<br/>
+  int neg   (0--> Positive 1-->negative) <br />
+  string s  (The number as string) <br />
+ } <br />
+ <br />
+1. Declaring Big Integer <br />
+   a.BigInt a(string)  <br />
+   b.BigInt a=string  <br />
+   c.BigInt a(int/long long) <br />
    d.BigInt a=(int/long)
   
 
