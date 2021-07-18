@@ -3,7 +3,7 @@
 
 ### Operations
 
-BigInt{<br/>
+BigInt {<br/>
   int neg   (0--> Positive 1-->negative) <br />
   string s  (The number as string) <br />
 }<br />
